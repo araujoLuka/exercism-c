@@ -1,0 +1,4 @@
+ex/
+*.out
+*.o
+hello

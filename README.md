@@ -26,6 +26,8 @@ The root directory serves as an index, providing easy navigation to each solutio
 
 Below is a list of all the exercises included in this repository. Click on the links to view the respective solution:
 
+1. [Exercise 1: hello-world](./hello-world/)
+
 ## 📝 Disclaimer
 
 All the exercises featured here are owned by **Exercism**. The solutions provided are my own work and are intended for educational purposes. I strongly encourage everyone to visit the [Exercism website](https://exercism.org) and attempt the exercises independently, whether in C or any other language of interest.

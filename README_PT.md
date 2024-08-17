@@ -21,6 +21,8 @@ O diretório raiz serve como um índice, fornecendo navegação fácil para cada
 
 Abaixo está uma lista de todos os exercícios incluídos neste repositório. Clique nos links para visualizar a solução respectiva:
 
+1. [Exercício 1: hello-world](./hello-world/)
+
 ## 📝 Aviso Legal
 
 Todos os exercícios apresentados aqui são propriedade do **Exercism**. As soluções fornecidas são de minha autoria e têm fins educacionais. Recomendo fortemente que todos visitem o [site do Exercism](https://exercism.org) e tentem resolver os exercícios de forma independente, seja em C ou em qualquer outra linguagem de interesse.
